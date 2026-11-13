@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 168" width="880" height="168" role="img" aria-label="关于">
+  <title>关于</title>
+  <defs>
+    <clipPath id="frame2"><rect width="880" height="168" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame2)">
+    <rect width="880" height="168" fill="#fbfbfd"/>
+    <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Segoe UI', sans-serif" text-anchor="middle">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0; 1" keySplines="0.28 0.11 0.32 1"/>
+        <text x="441" y="48" font-size="11" letter-spacing="4" fill="#86868b">ABOUT</text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="0.25s" fill="freeze" calcMode="spline" keyTimes="0; 1" keySplines="0.28 0.11 0.32 1"/>
+        <animateTransform attributeName="transform" type="translate" values="0 10; 0 0" keyTimes="0; 1" dur="0.9s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.28 0.11 0.32 1"/>
+        <text x="440" y="88" font-size="17" fill="#1d1d1f">兴趣方向：深度学习、计算机视觉、软件测试</text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="0.4s" fill="freeze" calcMode="spline" keyTimes="0; 1" keySplines="0.28 0.11 0.32 1"/>
+        <animateTransform attributeName="transform" type="translate" values="0 10; 0 0" keyTimes="0; 1" dur="0.9s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.28 0.11 0.32 1"/>
+        <text x="440" y="122" font-size="17" fill="#6e6e73">日常折腾 Linux 家庭服务器、网络与自托管服务</text>
+      </g>
+    </g>
+  </g>
+</svg>
